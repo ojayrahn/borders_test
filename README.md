@@ -1,2 +1,2 @@
 # borders_test
-Tester file at WG
+Tester project for WG
